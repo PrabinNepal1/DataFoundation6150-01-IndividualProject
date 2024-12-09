@@ -23,7 +23,3 @@ This project determines whether a user-provided address is eligible for same-day
   - [GeoPandas](https://geopandas.org/) - Geospatial data analysis
   - [NumPy](https://numpy.org/) - Efficient numerical computations
   - [Matplotlib](https://matplotlib.org/) - Data visualization
-  - [Folium](https://python-visualization.github.io/folium/) - Interactive map visualization
-- **APIs:**
-  - [OpenStreetMap Nominatim API](https://nominatim.org/) - Geocoding
-  - [Google Maps API](https://developers.google.com/maps/documentation/geocoding) - Address-to-coordinate conversion
